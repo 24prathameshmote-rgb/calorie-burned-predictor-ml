@@ -54,14 +54,14 @@ To run the app on your local computer, follow these steps:
    cd calorie-burned-predictor-ml
    ```
 
-3. **Install the required packages**
+3. **Install required dependencies**
     ```bash
-   pip install streamlit pandas scikit-learn joblib
+   pip install -r requirements.txt
    ```
 
 4. **Run the Streamlit app**
    ```bash
-   streamlit run app.py
+   python -m streamlit run app.py
    ```
 
 Once the app starts, it will open automatically in your web browser.
