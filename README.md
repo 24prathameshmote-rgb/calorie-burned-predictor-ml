@@ -68,6 +68,8 @@ Once the app starts, it will open automatically in your web browser.
 You can enter your details (gender, age, height, weight, duration, heart rate, and body temperature) and get your calorie burn estimate.
 
 ---
+
+## Screenshot of the UI
 ![Program Screenshot](ui.png)
 
 ---
