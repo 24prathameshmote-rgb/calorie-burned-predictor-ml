@@ -74,5 +74,5 @@ You can enter your details (gender, age, height, weight, duration, heart rate, a
 The dataset used for training this model is from Kaggle:
 [Calories Burnt Prediction Dataset](https://www.kaggle.com/datasets/ruchikakumbhar/calories-burnt-prediction)
 
-License = CC0 1.0 Universal (Public Domain) license.
+License: CC0 1.0 Universal (Public Domain) license.
 The dataset includes information like gender, age, height, weight, workout duration, heart rate, and body temperature, which are used to predict the number of calories burned during exercise.
