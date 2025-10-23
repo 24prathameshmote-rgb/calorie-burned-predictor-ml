@@ -1,9 +1,9 @@
 # Calorie Burned Predictor (Machine Learning Project)
 
-This project is a web app built using **Python**, **Streamlit**, and **Machine Learning**.  
+This project is a web app built using Python, Streamlit, and Machine Learning.  
 It predicts how many calories a person burns during a workout based on their personal details and activity data.
 
-The model was trained using a **Random Forest Regressor** and gives accurate results with a **Mean Absolute Error (MAE)** of around **2 kcal** and an **R² score** of about **0.998**.
+The model was trained using a Random Forest Regressor and gives accurate results with a Mean Absolute Error (MAE) of around 2 kcal and an R² score of about 0.998.
 
 ---
 
